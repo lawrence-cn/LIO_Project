@@ -291,7 +291,7 @@ source devel/setup.bash
 ```
 ### 3.4 Run with Rosbag 
 
-The simulation.bag can be downloaded from HKU Moodle.
+The simulation.bag can be downloaded from [Onedirve](https://hkuhk-my.sharepoint.com/:u:/g/personal/cnchen2_hku_hk/IQA_gz-AUTmmQ4HZnkkfZHiGAbcYH9fInnV4czRJ8zQNoJc?e=0DNBSS).
 
 First write your **student ID** and **Name** like the following picture (for example, ID is 3035888888, then you should write as 3035888888.0).
 
