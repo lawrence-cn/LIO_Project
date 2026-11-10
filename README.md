@@ -33,7 +33,7 @@
 
 FAST-LIO2 only works on Linux system which supports ROS (Robot Operating System). Thus we need to install a Linux system to make FAST-LIO2 work. Compared with installing a real linux system, here we choose an easier and safer way: installing a **virtual machine** of linux system on your windows system. A **virtual machine** (**VM**) is the [virtualization](https://en.wikipedia.org/wiki/Virtualization)/[emulation](https://en.wikipedia.org/wiki/Emulator) of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. 
 
-* Download **Ubuntu20.04 mirror image** on [onedrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/siqi7_connect_hku_hk/IgBZ1GZdo1dJT6JIx3ceqXRcAXubFWZyq07VMiSj6VfsyPM?e=INpi7t).
+* Download **Ubuntu 20.04 mirror image** on [official website](https://releases.ubuntu.com/focal/).
 
 * Download VMware Workstation Player for free at https://www.vmware.com/products/workstation-player.html.
 
@@ -291,7 +291,7 @@ source devel/setup.bash
 ```
 ### 3.4 Run with Rosbag 
 
-The simulation.bag can be downloaded from [onedrive](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/zhufc_connect_hku_hk/EbF01otEef5PsFQ7fD-d6b4BKtsJzAaz6XUrwuqj4Hr12g?e=fsOtEI).
+The simulation.bag can be downloaded from HKU Moodle.
 
 First write your **student ID** and **Name** like the following picture (for example, ID is 3035888888, then you should write as 3035888888.0).
 
